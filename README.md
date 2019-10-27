@@ -1,2 +1,3 @@
 # CDMA
-CDMA implement by using MATLAB
+A channel coding in Wireless network
+## What is CDMA
